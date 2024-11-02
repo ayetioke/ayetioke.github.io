@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayetioke.github.io/TkB/sitemap_index.txt
+Sitemap: https://ayetioke.github.io/Uxa/sitemap_index.txt
+Sitemap: https://ayetioke.github.io/VlQ/sitemap_index.txt
+Sitemap: https://ayetioke.github.io/rUQ/sitemap_index.txt
